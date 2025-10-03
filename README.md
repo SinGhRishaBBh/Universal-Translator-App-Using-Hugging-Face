@@ -1,4 +1,4 @@
-🌍 Universal Translator App
+[🌍 Universal Translator App
 <p align="center"> <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge&logo=OpenAI" /> <img src="https://img.shields.io/badge/Language-Translation-green?style=for-the-badge&logo=googletranslate" /> <img src="https://img.shields.io/badge/Collaboration-Success-orange?style=for-the-badge&logo=github" /> </p>
 
 ✨ A real-time Universal Translator that breaks language barriers. Instantly translate speech and text into multiple languages with a simple and modern interface.
@@ -66,3 +66,4 @@ Want to make this app even better?
 Licensed under the MIT License — free to use, modify, and distribute.
 
 <p align="center">✨ Built with ❤️ by <b>SinGhRishaBBh</b> & <b>Sristi2907</b> ✨</p>
+](https://universal-translator-zeta.vercel.app/)
